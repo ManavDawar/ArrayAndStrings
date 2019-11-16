@@ -28,11 +28,11 @@ Day 2 - 12 November 2019
 Day 3- 15 November 2019 
 1. 985 Sum of Even No after Query 
 2. 11 Container with most water
-3. Geeks Segregate 0 and 1 
-4. Segregate 0,1,2 Dutch National Flag
+3. Geeks Segregate 0 and 1/283 Move Zeroes
+4. Segregate 0,1,2 Dutch National Flag/75 Sort Color
 5. 905 Sort Array by Parity 
 6. 45 Jump Game 2
-7. 950 Reverse Cards in Increasing Order
+7. 950 Reveal Cards in Increasing Order
 8. geeks find if there is a pair with sum as x in array
 9. Geeks find a pair with the given difference
 10. max product Subarray
